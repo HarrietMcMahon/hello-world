@@ -1,2 +1,2 @@
 # hello-world
-hello
+Hello, I'm Harriet, this is me using Github
